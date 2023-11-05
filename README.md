@@ -1,5 +1,7 @@
 # NFT BSC CHAIN APP
 
+![screencapture-localhost-4200-2022-01-25-18_59_11](https://github.com/DarkHorseCorder/NFTmarketplace-Angular-Metamask/assets/120799088/db811b55-76f2-4c26-8b24-6bdbd4958fb0)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ## Development server
